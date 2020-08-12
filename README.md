@@ -13,7 +13,7 @@ Make sure you have already installed:
   
   &nbsp;&nbsp;&nbsp;&nbsp;Code:
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr;&nbsp;[classification_method.ipynb](https://github.com/naufalhilmiaji/nlp-posttag/blob/master/classification_method.ipynb)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr;&nbsp;[classification_method.ipynb](https://github.com/naufalhilmiaji/nlp-postag/blob/master/classification_method.ipynb)
   
   &nbsp;&nbsp;&nbsp;&nbsp;Train Data:
   
